@@ -20,9 +20,9 @@ __Link:__ [Program partnerski Discorda](https://dis.gd/partners)
 > __Description:__ Miejsce, w którym można znaleźć informacje i zgłosić się do programu HypeSquad Events.   <br/>
 __Link:__ [HypeSquad Events](https://dis.gd/hypesquad)
 
-### **Program Weryfikacja**
-> __Description:__ Miejsce, w którym można znaleźć informacje i zgłosić się do programu Weryfikacja.   <br/>
-__Link:__ [Program Weryfikacja](https://dis.gd/verification)
+### **Program Weryfikacji**
+> __Description:__ Miejsce, w którym można znaleźć informacje i zgłosić się do programu Weryfikacji.   <br/>
+__Link:__ [Program Weryfikacji](https://dis.gd/verification)
 
 ### **Student Hubs**
 > __Description:__ Miejsce, które ułatwia poznawanie kolegów z klasy, odkrywanie ich społeczności na Discord i udostępnianie własnych serwerów, do których mogą dołączyć koledzy z klasy.   <br/>
